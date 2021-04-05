@@ -1,0 +1,28 @@
+  .rumki {
+  	background-color:cadetblue;
+  	border: 5px dotted green;
+
+  }
+  .rumki h1{
+  	color:red;
+  	margin-top: 10px;
+  	text-align: center;
+  }
+
+  .rumki p{
+  	color:navy;
+  	padding-bottom:20px;
+  	text-align: justify;
+  }
+
+  .name{
+  	background-color:cadetblue;
+  	border: 5px solid green;
+  }
+
+  .name h3,p{
+  	color:red;
+  	margin-top: 10px;
+  	text-align: center;
+  }
+ 
